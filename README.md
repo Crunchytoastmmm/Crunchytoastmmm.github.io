@@ -4,6 +4,7 @@
 <body>
 <h1>Hello World it's me</h1>
 <p>this is fun...right?</p>
+<a href="https://github.com/Crunchytoastmmm/skills/blob/master/learning-log/index.html"
 
 <html>
 <head>
